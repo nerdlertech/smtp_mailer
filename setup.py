@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="smtp_mailer_nerdler",
-    version="0.0.1",
+    version="0.0.2",
     author="Nerdler",
     author_email="pip@nerdler.tech",
     description="SMTP Mailer classes",
